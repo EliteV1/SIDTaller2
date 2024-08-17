@@ -1,0 +1,23 @@
+{
+    "users": [
+              {
+                "id":1,
+                "username":"mondongo",
+                "state":true,
+                "deck":[11, 22, 33, 44, 55]
+              }
+      {
+                "id":2,
+                "username":"mondongo",
+                "state":true,
+                "deck":[54, 24, 71, 36, 18]
+      }
+
+      {
+                "id":1,
+                "username":"mondongo",
+                "state":true,
+                "deck":[54, 24, 71, 36, 18]
+      }
+    ]
+}
