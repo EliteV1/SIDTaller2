@@ -8,14 +8,14 @@
               },
       {
                 "id":2,
-                "username":"mondongo",
+                "username":"sancocho",
                 "state":true,
                 "deck":[54, 24, 71, 36, 18]
       },
 
       {
                 "id":3,
-                "username":"mondongo",
+                "username":"caldo",
                 "state":true,
                 "deck":[35, 16, 1, 6, 9]
       }
